@@ -44,4 +44,4 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 # Links
 [Deployed](https://techblogx-3d7c6aa61028.herokuapp.com/)_
 
-[Github]()
+[Github](https://github.com/xjessycaz12X/14--mvc-tech-blog)
